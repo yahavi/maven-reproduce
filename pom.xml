@@ -13,10 +13,6 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <scm.url>scm:git:ssh://git@gitrepo.example.com/repo.git</scm.url>
   </properties>
-  <modules>
-    <module>module1</module>
-    <module>module2</module>
-  </modules>
 
   <build>
     <plugins>
